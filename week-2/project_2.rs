@@ -9,7 +9,7 @@ fn main() {
 
     let s:f64 = tt + tm + th + td + ta; // s being sum
 	println!("The total sum is {}", s);
-	let avg:f64 = s / 10.0; // avg being average
+	let avg:f64 = s / 10.0; // avg being average 
 	println!("The average amount is {}", avg);
 
 

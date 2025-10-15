@@ -4,5 +4,5 @@ fn main() {
 	let n:f64 = 3.0;
 
 	let a:f64 = p * (1.0 - (r / 100.0)).powf(n);
-	println!("The depreciation is {}",a);
+	println!("The depreciation is {}",a);  
 }
