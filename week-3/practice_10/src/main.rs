@@ -9,7 +9,7 @@ fn main(){
 
 	//multiplication
 	let product:u32 = 4 * 32;
-	println!("The multiple of 4 and 30 = {}",product);
+	println!("The multiple of 4 and 32 = {}",product);
 
 	//division
 	let quotient:f64 = 56.7 / 32.2;
